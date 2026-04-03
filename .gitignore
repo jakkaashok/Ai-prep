@@ -14,3 +14,16 @@ __pycache__/
 *.csv
 
 share/
+
+# Virtual environments
+Virtual_Environment/
+Virtual_Environment2/
+venv/
+env/
+
+
+# IDE files
+.vscode/
+
+# OS files
+.DS_Store
