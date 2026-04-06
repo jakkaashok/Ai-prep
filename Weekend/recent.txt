@@ -1,0 +1,14 @@
+Employee Salary Analysis
+========================
+
+Total Employees: 50
+Average Salary: 6182.32
+Max salary: 24000
+
+Top 5 Highest Paid:
+   first_name  salary
+9      Steven   24000
+10      Neena   17000
+11        Lex   17000
+3     Michael   13000
+7     Shelley   12008
